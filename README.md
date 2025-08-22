@@ -29,3 +29,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/abdulmusawwir2?style=social)  
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulmusawwir2&color=blue)  
 
+
+
+<!-- LeetCode Badges -->
+![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Problems%20Solved&query=solved&url=https://leetcard.jacoblin.cool/abdul_musawwir?ext=contest&color=orange)
+![LeetCode Ranking](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Ranking&query=ranking&url=https://leetcard.jacoblin.cool/abdul_musawwir?ext=contest&color=blue)
+![LeetCode Contest Rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contest%20Rating&query=contest.rating&url=https://leetcard.jacoblin.cool/abdul_musawwir?ext=contest&color=yellow)
+

@@ -21,8 +21,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abdul_musawwir?theme=dark&font=Karma&ext=heatmap&ext=contest)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/abdul_musawwir?theme=dark&font=Karma&ext=contest)  
-
 ---
 
 ## 🔗 Badges  

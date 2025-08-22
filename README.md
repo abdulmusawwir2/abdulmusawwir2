@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - 🌱 Learning and building cool projects  
-- 💻 Competitive Programmer | Web Developer  
+- 💻 Full Stack Developer | Web Developer  
 - 📊 Passionate about DSA & Problem Solving  
 
 ---

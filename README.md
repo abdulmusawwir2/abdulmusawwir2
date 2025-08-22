@@ -6,6 +6,10 @@
 - 📊 Passionate about DSA & Problem Solving  
 
 ---
+## 🏆 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/abdul_musawwir?theme=dark&font=Karma&ext=heatmap&ext=contest)
+
+
 
 ## 📈 GitHub Stats  
 
@@ -17,8 +21,7 @@
 
 ---
 
-## 🏆 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/abdul_musawwir?theme=dark&font=Karma&ext=heatmap&ext=contest)
+
 
 
 ---

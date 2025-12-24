@@ -1,4 +1,5 @@
-# Abdul Musawwir – Software Engineer 🚀
+# Abdul Musawwir – Computer Science Undergraduate | MERN & DevOps Enthusiast
+
 
 📍 Ballari, Karnataka, India  
 📧 abdulmusawwir611@gmail.com  
